@@ -1,0 +1,10 @@
+@import "colores";
+@import "header";
+@import "contenedor";
+@import "section";
+@import "aside";
+@import "footer";
+
+body{
+    background: $colorFondo;
+}
